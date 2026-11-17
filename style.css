@@ -12,10 +12,22 @@ body{
     margin:  auto;
 }
 
+*{
+    font-family: "Playwrite FR Moderne", cursive;
+    
+
+}
+
 
 img {
     width: 300px;
     height: 300px;
     border-radius: 10px;
 
+}
+
+h1,h2{
+
+   font-size: 170%;
+   
 }

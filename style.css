@@ -1,5 +1,6 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-size:25px;
     
     
 }
@@ -16,15 +17,17 @@ body{
 
 }
 
-
+h1{
+    font-size: 40px;
+}
 #about{
     text-align:none ;
 }
 
 #page{
-    padding: 45px;
+    padding: 55px;
     width: 1200px;
-    height: 1200px;
+    height: 1500px;
     background-color:#f9c295;
     border-radius: 1%;
     margin: 50px auto;
@@ -34,11 +37,19 @@ body{
 img#capa{
     width: 800px;
     height: 400px;
-    background-image: center;
+    display: block;
+    margin: 0 auto;
 }
 
 img.fotoautoral{
    width:  300px;
    height: 250px;
+   display: block;
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+    
 }
 

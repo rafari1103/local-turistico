@@ -24,6 +24,10 @@ Google Fonts: pesquisa e escolha da tipografia.
 
 Visual Studio Code: ambiente de desenvolvimento.
 
+**Inteligência Artificial**
+
+Estudo sobre o uso da IA como ferramenta de apoio ao desenvolvimento, com foco em engenharia de prompts, contextualização, análise de respostas e validação de informações. Aplicação de práticas como Active Recall, Tree of Thought e metodologia PARE (Pergunte, Anote, Revise e Explique), priorizando o entendimento e a autonomia na construção do código.
+
 **Status**
 
 Em desenvolvimento.
